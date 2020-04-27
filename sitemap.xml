@@ -5,74 +5,104 @@
   <url>
     <loc>https://www.24cc.cc/categories/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.24cc.cc/post/</loc>
-    <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/tags/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/tags/%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.24cc.cc/post/%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E6%94%B9%E6%A8%99%E5%BB%B63%E5%B9%B4%E8%B2%A9%E5%94%AE/</loc>
+    <loc>https://www.24cc.cc/2019/10/10/%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E6%94%B9%E6%A8%99%E5%BB%B63%E5%B9%B4%E8%B2%A9%E5%94%AE/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/categories/%E5%8F%B0%E7%81%A3/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/categories/%E9%BB%91%E5%BF%83%E5%B7%A5%E5%BB%A0/</loc>
     <lastmod>2019-10-10T17:56:45+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.24cc.cc/post/%E9%81%8E%E6%9C%9F%E5%8E%9F%E6%96%99%E8%A3%BD%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%819%E5%B9%B4/</loc>
+    <loc>https://www.24cc.cc/2019/10/10/%E9%81%8E%E6%9C%9F%E5%8E%9F%E6%96%99%E8%A3%BD%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%819%E5%B9%B4/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.24cc.cc/post/%E9%BB%91%E5%BF%83%E8%97%BB%E6%B2%B9%E8%86%A0%E5%9B%8A/</loc>
+    <loc>https://www.24cc.cc/2019/02/02/%E9%BB%91%E5%BF%83%E8%97%BB%E6%B2%B9%E8%86%A0%E5%9B%8A%E5%A1%91%E5%8C%96%E5%8A%91%E8%B6%85%E6%A8%99/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.24cc.cc/post/%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81/</loc>
+    <loc>https://www.24cc.cc/2018/08/10/%E4%B8%AD%E5%9C%8B%E5%86%8D%E7%88%86%E9%BB%91%E5%BF%83%E4%B8%8A%E5%8D%83%E5%85%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E7%AB%9F%E6%98%AF%E7%B3%96%E6%9E%9C/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/categories/%E5%A4%A7%E9%99%B8/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.24cc.cc/post/%E5%81%BD%E9%80%A0%E6%AA%A2%E9%A9%97%E5%81%87%E5%86%92%E9%80%B2%E5%8F%A3%E9%BB%91%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81/</loc>
+    <loc>https://www.24cc.cc/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.24cc.cc/2012/01/06/%E5%81%BD%E9%80%A0%E6%AA%A2%E9%A9%97%E5%81%87%E5%86%92%E9%80%B2%E5%8F%A3%E9%BB%91%E5%BF%83%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E5%85%AC%E7%84%B6%E5%A4%A7%E8%B3%BA/</loc>
     <lastmod>2012-01-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.24cc.cc/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
